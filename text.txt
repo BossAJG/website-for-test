@@ -1,1 +1,3 @@
 my first commit
+
+and here added some think
